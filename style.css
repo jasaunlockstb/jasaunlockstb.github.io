@@ -22,6 +22,12 @@ h2{
 	float: left;
 }
 
+.isi-slider {
+   width: 100%;
+   max-width: 130px;
+   height: auto;
+}
+
 .isi-slider { 
 	position: absolute; 
 	width:3900px;  
