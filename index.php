@@ -63,7 +63,7 @@ function free($vd){
 
 	$token= $result['token'];
 
-    $link = "https://app-etslive-2.vidio.com/live/$vd/master.m3u8?$token";
+    $link = "https://app-etslive-2.vidio.com/live/$vd/master.mpd?$token";
 
     echo $link1 = file_get_contents($link);
 
