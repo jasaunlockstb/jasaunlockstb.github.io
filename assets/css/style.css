@@ -7,6 +7,8 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	border-radius: 8px;
+	box-shadow: -1px 5px 15px black;
 }
 main {
 	width: 100%;
