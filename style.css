@@ -8,24 +8,20 @@ h2{
 	position: relative; 
 	overflow: hidden; 
 	background: #efefef;
+	border-radius: 8px;
+	box-shadow: -1px 5px 15px black;
 }
 
 .malasngoding-slider { 
 	margin:20px auto;
-	width: 768px;
-	height: 450px; 
+	width: 385px;
+	height: 385px; 
 }
 
 .isi-slider img { 
-	width: 768px;
-	height: 450px; 
+	width: 385px;
+	height: 385px; 
 	float: left;
-}
-
-.isi-slider {
-   width: 100%;
-   max-width: 130px;
-   height: auto;
 }
 
 .isi-slider { 
@@ -98,10 +94,10 @@ h2{
 		opacity: 0; 
 	}     
 	25% {
-		left: -768px; opacity: 1; 
+		left: -385px; opacity: 1; 
 	}       
 	45% {
-		left: -768px; opacity: 1; 
+		left: -385px; opacity: 1; 
 	}     
 	46% {
 		opacity: 0; 
@@ -110,10 +106,10 @@ h2{
 		opacity: 0; 
 	}     
 	50% {
-		left: -1536px; opacity: 1; 
+		left: -770px; opacity: 1; 
 	}     
 	70% {
-		left: -1536px; opacity: 1; 
+		left: -770px; opacity: 1; 
 	}     
 	72% {
 		opacity: 0; 
@@ -122,13 +118,13 @@ h2{
 		opacity: 0; 
 	}    
 	75% {
-		left: -2304px; opacity: 1; 
+		left: -1.155px; opacity: 1; 
 	}   	
 	95% {
-		left: -2304px; opacity: 1; 
+		left: -1.155px; opacity: 1; 
 	}   	
 	97% { 
-		left: -2304px; opacity: 0;
+		left: -1.155px; opacity: 0;
 	}   	
 	100% {
 		left: 0; opacity: 0; 
@@ -152,10 +148,10 @@ h2{
 		opacity: 0; 
 	}     
 	25% {
-		left: -768px; opacity: 1; 
+		left: -385px; opacity: 1; 
 	}       
 	45% {
-		left: -768px; opacity: 1; 
+		left: -385px; opacity: 1; 
 	}     
 	46% {
 		opacity: 0; 
@@ -164,10 +160,10 @@ h2{
 		opacity: 0; 
 	}     
 	50% {
-		left: -1536px; opacity: 1; 
+		left: -770px; opacity: 1; 
 	}     
 	70% {
-		left: -1536px; opacity: 1; 
+		left: -770px; opacity: 1; 
 	}     
 	72% {
 		opacity: 0; 
@@ -176,13 +172,13 @@ h2{
 		opacity: 0; 
 	}    
 	75% {
-		left: -2304px; opacity: 1; 
+		left: -1.155px; opacity: 1; 
 	}   	
 	95% {
-		left: -2304px; opacity: 1; 
+		left: -1.155px; opacity: 1; 
 	}   	
 	97% { 
-		left: -2304px; opacity: 0;
+		left: -1.155px; opacity: 0;
 	}   	
 	100% {
 		left: 0; opacity: 0; 
@@ -207,10 +203,10 @@ h2{
 		opacity: 0; 
 	}     
 	25% {
-		left: -768px; opacity: 1; 
+		left: -385px; opacity: 1; 
 	}     
 	45% {
-		left: -768px; opacity: 1; 
+		left: -385px; opacity: 1; 
 	}     
 	46% {
 		opacity: 0; 
@@ -219,10 +215,10 @@ h2{
 		opacity: 0; 
 	}     
 	50% {
-		left: -1536px; opacity: 1; 
+		left: -770px; opacity: 1; 
 	}     
 	70% {
-		left: -1536px; opacity: 1; 
+		left: -770px; opacity: 1; 
 	}     
 	72% {
 		opacity: 0; 
@@ -231,13 +227,13 @@ h2{
 		opacity: 0; 
 	}    
 	75% {
-		left: -2304px; opacity: 1; 
+		left: -1.155px; opacity: 1; 
 	}   	
 	95% {
-		left: -2304px; opacity: 1; 
+		left: -1.155px; opacity: 1; 
 	}   	
 	97% { 
-		left: -2304px; opacity: 0; 
+		left: -1.155px; opacity: 0; 
 	} 
 
 	100% {
