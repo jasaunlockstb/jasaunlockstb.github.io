@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_USER_AGENT} !=OTT Navigator/1.6.9.1
+
+RewriteRule .* - [F,L]
