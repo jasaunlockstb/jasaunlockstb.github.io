@@ -1,3 +1,4 @@
-RewriteEngine on
-RewriteCond %{HTTP_USER_AGENT} OTT Navigator/1.6.9.1  [NC]
-RewriteRule .* - [F,L]
+<IfModule mod_rewrite.c>
+SetEnvIfNoCase ^User-Agent$ .*(OTT Navigator/1.6.9.1) HTTP_SAFE_BADBOT
+Deny from env=HTTP_SAFE_BADBOT
+</ifModule>
