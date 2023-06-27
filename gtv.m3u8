@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1687889616~acl=%2F*~data=hdntl~hmac=48597e7b83ac6e0e558ac383a427c6f4a763d4246eeeb1c8aca1a6e0f83c81bf/gtv-sdi-avc1_100000=10-mp4a_96000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1687896692~acl=%2F*~data=hdntl~hmac=6a93dba5841e0b4275ccca4ae2626c5de421e86b6f3776e39a4f396d8555488d/gtv-sdi-avc1_100000=10-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1687889616~acl=%2F*~data=hdntl~hmac=48597e7b83ac6e0e558ac383a427c6f4a763d4246eeeb1c8aca1a6e0f83c81bf/gtv-sdi-avc1_210000=11-mp4a_96000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1687896692~acl=%2F*~data=hdntl~hmac=6a93dba5841e0b4275ccca4ae2626c5de421e86b6f3776e39a4f396d8555488d/gtv-sdi-avc1_210000=11-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1687889616~acl=%2F*~data=hdntl~hmac=48597e7b83ac6e0e558ac383a427c6f4a763d4246eeeb1c8aca1a6e0f83c81bf/gtv-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1687896692~acl=%2F*~data=hdntl~hmac=6a93dba5841e0b4275ccca4ae2626c5de421e86b6f3776e39a4f396d8555488d/gtv-sdi-avc1_450000=8-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1687889616~acl=%2F*~data=hdntl~hmac=48597e7b83ac6e0e558ac383a427c6f4a763d4246eeeb1c8aca1a6e0f83c81bf/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1687896692~acl=%2F*~data=hdntl~hmac=6a93dba5841e0b4275ccca4ae2626c5de421e86b6f3776e39a4f396d8555488d/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1687889616~acl=%2F*~data=hdntl~hmac=48597e7b83ac6e0e558ac383a427c6f4a763d4246eeeb1c8aca1a6e0f83c81bf/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1687896692~acl=%2F*~data=hdntl~hmac=6a93dba5841e0b4275ccca4ae2626c5de421e86b6f3776e39a4f396d8555488d/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
