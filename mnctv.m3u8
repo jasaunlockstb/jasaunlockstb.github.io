@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://mnctv-linier.rctiplus.id/hdntl=exp=1688242219~acl=%2F*~data=hdntl~hmac=1cefa647ca507ae76d4d576b81f3262b003e984aa8cdc54d40d113b4ede99b03/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8
+https://mnctv-linier.rctiplus.id/hdntl=exp=1688249893~acl=%2F*~data=hdntl~hmac=dbed645ef8fcba69245168fec9dd07726b544e47e5e74b1db380de0713c20a5c/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://mnctv-linier.rctiplus.id/hdntl=exp=1688242219~acl=%2F*~data=hdntl~hmac=1cefa647ca507ae76d4d576b81f3262b003e984aa8cdc54d40d113b4ede99b03/mnctv-sdi-avc1_210000=10-mp4a_96000=1.m3u8
+https://mnctv-linier.rctiplus.id/hdntl=exp=1688249893~acl=%2F*~data=hdntl~hmac=dbed645ef8fcba69245168fec9dd07726b544e47e5e74b1db380de0713c20a5c/mnctv-sdi-avc1_210000=10-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://mnctv-linier.rctiplus.id/hdntl=exp=1688242219~acl=%2F*~data=hdntl~hmac=1cefa647ca507ae76d4d576b81f3262b003e984aa8cdc54d40d113b4ede99b03/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8
+https://mnctv-linier.rctiplus.id/hdntl=exp=1688249893~acl=%2F*~data=hdntl~hmac=dbed645ef8fcba69245168fec9dd07726b544e47e5e74b1db380de0713c20a5c/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://mnctv-linier.rctiplus.id/hdntl=exp=1688242219~acl=%2F*~data=hdntl~hmac=1cefa647ca507ae76d4d576b81f3262b003e984aa8cdc54d40d113b4ede99b03/mnctv-sdi-avc1_600000=8-mp4a_96000=1.m3u8
+https://mnctv-linier.rctiplus.id/hdntl=exp=1688249893~acl=%2F*~data=hdntl~hmac=dbed645ef8fcba69245168fec9dd07726b544e47e5e74b1db380de0713c20a5c/mnctv-sdi-avc1_600000=8-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mnctv-linier.rctiplus.id/hdntl=exp=1688242219~acl=%2F*~data=hdntl~hmac=1cefa647ca507ae76d4d576b81f3262b003e984aa8cdc54d40d113b4ede99b03/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://mnctv-linier.rctiplus.id/hdntl=exp=1688249893~acl=%2F*~data=hdntl~hmac=dbed645ef8fcba69245168fec9dd07726b544e47e5e74b1db380de0713c20a5c/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
