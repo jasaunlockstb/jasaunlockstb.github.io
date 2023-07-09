@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://inews-linier.rctiplus.id/hdntl=exp=1688969427~acl=%2F*~data=hdntl~hmac=797219f12ae77cc47340e20c03900be40f1df0ea9e46badfb05f338fe6275330/inews-sdi-avc1_100000=19-mp4a_96000=1.m3u8
+https://inews-linier.rctiplus.id/hdntl=exp=1688976561~acl=%2F*~data=hdntl~hmac=eca116a44e0c97ece196a7d8252140491f24dda125f4ba6753a82afe5a80f31f/inews-sdi-avc1_100000=19-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://inews-linier.rctiplus.id/hdntl=exp=1688969427~acl=%2F*~data=hdntl~hmac=797219f12ae77cc47340e20c03900be40f1df0ea9e46badfb05f338fe6275330/inews-sdi-avc1_210000=20-mp4a_96000=1.m3u8
+https://inews-linier.rctiplus.id/hdntl=exp=1688976561~acl=%2F*~data=hdntl~hmac=eca116a44e0c97ece196a7d8252140491f24dda125f4ba6753a82afe5a80f31f/inews-sdi-avc1_210000=20-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://inews-linier.rctiplus.id/hdntl=exp=1688969427~acl=%2F*~data=hdntl~hmac=797219f12ae77cc47340e20c03900be40f1df0ea9e46badfb05f338fe6275330/inews-sdi-avc1_450000=17-mp4a_96000=1.m3u8
+https://inews-linier.rctiplus.id/hdntl=exp=1688976561~acl=%2F*~data=hdntl~hmac=eca116a44e0c97ece196a7d8252140491f24dda125f4ba6753a82afe5a80f31f/inews-sdi-avc1_450000=17-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://inews-linier.rctiplus.id/hdntl=exp=1688969427~acl=%2F*~data=hdntl~hmac=797219f12ae77cc47340e20c03900be40f1df0ea9e46badfb05f338fe6275330/inews-sdi-avc1_600000=21-mp4a_96000=1.m3u8
+https://inews-linier.rctiplus.id/hdntl=exp=1688976561~acl=%2F*~data=hdntl~hmac=eca116a44e0c97ece196a7d8252140491f24dda125f4ba6753a82afe5a80f31f/inews-sdi-avc1_600000=21-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://inews-linier.rctiplus.id/hdntl=exp=1688969427~acl=%2F*~data=hdntl~hmac=797219f12ae77cc47340e20c03900be40f1df0ea9e46badfb05f338fe6275330/inews-sdi-avc1_800000=18-mp4a_96000=1.m3u8
+https://inews-linier.rctiplus.id/hdntl=exp=1688976561~acl=%2F*~data=hdntl~hmac=eca116a44e0c97ece196a7d8252140491f24dda125f4ba6753a82afe5a80f31f/inews-sdi-avc1_800000=18-mp4a_96000=1.m3u8
