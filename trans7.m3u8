@@ -1,18 +1,10 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-p/ingest_734_*/*~hmac=35c270cdf979d6b3e1bdc1c74ece67532c861724d277d978994f39601abd8b60/hls-p/ingest_734_720p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-p/ingest_734_*/*~hmac=35c270cdf979d6b3e1bdc1c74ece67532c861724d277d978994f39601abd8b60/hls-p/ingest_734_480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-p/ingest_734_*/*~hmac=35c270cdf979d6b3e1bdc1c74ece67532c861724d277d978994f39601abd8b60/hls-p/ingest_734_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-p/ingest_734_*/*~hmac=35c270cdf979d6b3e1bdc1c74ece67532c861724d277d978994f39601abd8b60/hls-p/ingest_734_240p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-b/ingest_734_*/*~hmac=00d726ab343691d7b63c8c6ac7f985ffbef7381e01639255964d6c65737fd346/hls-b/ingest_734_720p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-b/ingest_734_*/*~hmac=00d726ab343691d7b63c8c6ac7f985ffbef7381e01639255964d6c65737fd346/hls-b/ingest_734_480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-b/ingest_734_*/*~hmac=00d726ab343691d7b63c8c6ac7f985ffbef7381e01639255964d6c65737fd346/hls-b/ingest_734_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1689076860~acl=/hls-b/ingest_734_*/*~hmac=00d726ab343691d7b63c8c6ac7f985ffbef7381e01639255964d6c65737fd346/hls-b/ingest_734_240p/index.m3u8
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
