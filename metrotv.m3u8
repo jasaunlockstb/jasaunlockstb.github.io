@@ -1,10 +1,10 @@
-
-<html><head>
-<meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>502 Server Error</title>
-</head>
-<body text=#000000 bgcolor=#ffffff>
-<h1>Error: Server Error</h1>
-<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
-<h2></h2>
-</body></html>
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://live-production.secureswiftcontent.com/exp=1689156042~acl=/hls-p/ingest_777_*/*~hmac=1c9bf84e492eff571e393c4d7ab4c4528533e27fdf7f654c1b68fb40ebc28566/hls-p/ingest_777_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://live-production.secureswiftcontent.com/exp=1689156042~acl=/hls-p/ingest_777_*/*~hmac=1c9bf84e492eff571e393c4d7ab4c4528533e27fdf7f654c1b68fb40ebc28566/hls-p/ingest_777_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
+https://live-production.secureswiftcontent.com/exp=1689156042~acl=/hls-p/ingest_777_*/*~hmac=1c9bf84e492eff571e393c4d7ab4c4528533e27fdf7f654c1b68fb40ebc28566/hls-p/ingest_777_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
+https://live-production.secureswiftcontent.com/exp=1689156042~acl=/hls-p/ingest_777_*/*~hmac=1c9bf84e492eff571e393c4d7ab4c4528533e27fdf7f654c1b68fb40ebc28566/hls-p/ingest_777_240p/index.m3u8
