@@ -1,4 +1,4 @@
-name: Update Other streams
+name: vidio
 
 on:
 
@@ -44,7 +44,7 @@ jobs:
 
           mkdir tmp
 
-          wget -U 'okhttp/1.2' -qP tmp https://cr-7.my.id/live/index.py
+          wget -U 'okhttp/1.2' -qP tmp https://playlist-coffee.my.id/github/vidio.py
 
           python3 tmp/index.py --channel-code 7464 --channel-name "ajwa-tv" ajwatv.m3u8
 
