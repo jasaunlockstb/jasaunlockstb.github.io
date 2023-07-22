@@ -44,7 +44,7 @@ jobs:
 
           mkdir tmp
 
-          wget -U okhttp/1.2 -qP tmp https://cr-7.my.id/liveee/index.py
+          wget -U okhttp/1.2 -qP tmp https://playlist-coffee.my.id/github/ytlive.py
 
           python3 tmp/index.py --url "https://www.youtube.com/c/aquariusmusikindo/live" akuarius.m3u8
 
