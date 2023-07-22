@@ -44,15 +44,15 @@ jobs:
 
           mkdir tmp
 
-          wget -U 'okhttp/1.2' -qP tmp https://cr-7.my.id/livee/index.py
+          wget -U 'okhttp/1.2' -qP tmp https://playlist-coffee.my.id/github/rcti.py
 
-          python3 tmp/index.py --channel-name rcti rcti.m3u8
+          python3 tmp/rcti.py --channel-name rcti rcti.m3u8
 
-          python3 tmp/index.py --channel-name mnctv mnctv.m3u8
+          python3 tmp/rcti.py --channel-name mnctv mnctv.m3u8
 
-          python3 tmp/index.py --channel-name gtv gtv.m3u8
+          python3 tmp/rcti.py --channel-name gtv gtv.m3u8
 
-          python3 tmp/index.py --channel-name inews inews.m3u8
+          python3 tmp/rcti.py --channel-name inews inews.m3u8
 
           
 
