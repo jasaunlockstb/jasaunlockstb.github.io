@@ -1,12 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1691050556~acl=%2F*~data=hdntl~hmac=b1550c76f9ea0aaeb3d3849a6d5c0563390a8d69014dabba66bafd3e35f8dd89/gtv-sdi-avc1_100000=10-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1691050556~acl=%2F*~data=hdntl~hmac=b1550c76f9ea0aaeb3d3849a6d5c0563390a8d69014dabba66bafd3e35f8dd89/gtv-sdi-avc1_210000=11-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1691050556~acl=%2F*~data=hdntl~hmac=b1550c76f9ea0aaeb3d3849a6d5c0563390a8d69014dabba66bafd3e35f8dd89/gtv-sdi-avc1_450000=8-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1691050556~acl=%2F*~data=hdntl~hmac=b1550c76f9ea0aaeb3d3849a6d5c0563390a8d69014dabba66bafd3e35f8dd89/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://gtv-linier.rctiplus.id/hdntl=exp=1691050556~acl=%2F*~data=hdntl~hmac=b1550c76f9ea0aaeb3d3849a6d5c0563390a8d69014dabba66bafd3e35f8dd89/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by region block</p><hr/>Powered by Tengine <br/>CDN Request Id: 0830559c16910259505993981e</body></html>
