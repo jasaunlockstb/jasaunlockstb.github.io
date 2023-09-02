@@ -44,7 +44,7 @@ jobs:
 
           mkdir tmp
 
-          wget -U 'okhttp/1.2' -qP tmp https://raw.githubusercontent.com/jasaunlockstb/jasaunlockstb.github.io/main/scripts/error.py
+          wget -U 'okhttp/1.2' -qP tmp http://motv.my.id/scripts/error.py
 
           python3 tmp/vidio.py --channel-code 7464 --channel-name "ajwa-tv" ajwatv.m3u8
 
