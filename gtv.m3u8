@@ -1,7 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,AVERAGE-BANDWIDTH=200000,BANDWIDTH=243053,RESOLUTION=640x480,NAME="NTSC/SECAM/PAL",FRAME-RATE=25.000,CODECS="avc1.64001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-http://thefirefox12537.github.io/streams/nosignal/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,AVERAGE-BANDWIDTH=1000000,BANDWIDTH=1294369,RESOLUTION=1920x1080,NAME="FHD",FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-http://thefirefox12537.github.io/streams/nosignal/02.m3u8
-#EXT-X-ENDLIST
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by region block</p><hr/>Powered by Tengine <br/>CDN Request Id: 2ff6189516943339634122586e</body></html>
