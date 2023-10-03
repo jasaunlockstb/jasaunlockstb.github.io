@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1696335801~acl=%2F*~data=hdntl~hmac=c86350f64ed245558678b5a91d78a0e6342be1ff6498ce97de5f64d6ed7d44a8/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8
+https://rcti-linier.rctiplus.id/hdntl=exp=1696342909~acl=%2F*~data=hdntl~hmac=86f9b2e565391e9476b7f8de815b0c70852d40af2dbf9f60af3472f296923a13/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1696335801~acl=%2F*~data=hdntl~hmac=c86350f64ed245558678b5a91d78a0e6342be1ff6498ce97de5f64d6ed7d44a8/rcti-sdi-avc1_210000=10-mp4a_96000=1.m3u8
+https://rcti-linier.rctiplus.id/hdntl=exp=1696342909~acl=%2F*~data=hdntl~hmac=86f9b2e565391e9476b7f8de815b0c70852d40af2dbf9f60af3472f296923a13/rcti-sdi-avc1_210000=10-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1696335801~acl=%2F*~data=hdntl~hmac=c86350f64ed245558678b5a91d78a0e6342be1ff6498ce97de5f64d6ed7d44a8/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+https://rcti-linier.rctiplus.id/hdntl=exp=1696342909~acl=%2F*~data=hdntl~hmac=86f9b2e565391e9476b7f8de815b0c70852d40af2dbf9f60af3472f296923a13/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1696335801~acl=%2F*~data=hdntl~hmac=c86350f64ed245558678b5a91d78a0e6342be1ff6498ce97de5f64d6ed7d44a8/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
+https://rcti-linier.rctiplus.id/hdntl=exp=1696342909~acl=%2F*~data=hdntl~hmac=86f9b2e565391e9476b7f8de815b0c70852d40af2dbf9f60af3472f296923a13/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1696335801~acl=%2F*~data=hdntl~hmac=c86350f64ed245558678b5a91d78a0e6342be1ff6498ce97de5f64d6ed7d44a8/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://rcti-linier.rctiplus.id/hdntl=exp=1696342909~acl=%2F*~data=hdntl~hmac=86f9b2e565391e9476b7f8de815b0c70852d40af2dbf9f60af3472f296923a13/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
