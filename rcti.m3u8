@@ -1,12 +1,12 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1697150246~acl=%2F*~data=hdntl~hmac=9d76da1014b3d166e66d55fb11d5d13b06c3740de8e707b6d8a1f6054515d136/rcti-sdi-avc1_100000=14-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1697150246~acl=%2F*~data=hdntl~hmac=9d76da1014b3d166e66d55fb11d5d13b06c3740de8e707b6d8a1f6054515d136/rcti-sdi-avc1_210000=16-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1697150246~acl=%2F*~data=hdntl~hmac=9d76da1014b3d166e66d55fb11d5d13b06c3740de8e707b6d8a1f6054515d136/rcti-sdi-avc1_450000=13-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1697150246~acl=%2F*~data=hdntl~hmac=9d76da1014b3d166e66d55fb11d5d13b06c3740de8e707b6d8a1f6054515d136/rcti-sdi-avc1_600000=15-mp4a_96000=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://rcti-linier.rctiplus.id/hdntl=exp=1697150246~acl=%2F*~data=hdntl~hmac=9d76da1014b3d166e66d55fb11d5d13b06c3740de8e707b6d8a1f6054515d136/rcti-sdi-avc1_800000=12-mp4a_96000=1.m3u8
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>404 Cannot choose a backend</title>
+  </head>
+  <body>
+    <h1>Error 404 Cannot choose a backend</h1>
+  </body>
+</html>
