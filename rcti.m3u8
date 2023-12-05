@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8?auth_key=1701757265-bf7aa95db3bc64f2cbb07f0dc1c9bd9a-XnQv0UeGhRidCtKO85w7YZuuMnKS5Tu3amZBdz4H-b901c3b00e1cf71edacf1e0f95b0b08c
+https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8?auth_key=1701761480-c62efdb4433542cd692333271f8e4f72-qpXPYcqfSDqYNjdr44wwFnwIgrucpFkA13wzmrQV-19d6981d5faabe4cc6d0c0c0e0e5c81d
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_210000=10-mp4a_96000=1.m3u8?auth_key=1701757265-bf7aa95db3bc64f2cbb07f0dc1c9bd9a-XnQv0UeGhRidCtKO85w7YZuuMnKS5Tu3amZBdz4H-f620f0617890dfb263c25e21f15412d5
+https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_210000=10-mp4a_96000=1.m3u8?auth_key=1701761480-c62efdb4433542cd692333271f8e4f72-qpXPYcqfSDqYNjdr44wwFnwIgrucpFkA13wzmrQV-1fa3fc5bff7babcf1ea0ac1cebad5924
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8?auth_key=1701757265-bf7aa95db3bc64f2cbb07f0dc1c9bd9a-XnQv0UeGhRidCtKO85w7YZuuMnKS5Tu3amZBdz4H-801fe6bebeaaf036abc0f013ebfab1be
+https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8?auth_key=1701761480-c62efdb4433542cd692333271f8e4f72-qpXPYcqfSDqYNjdr44wwFnwIgrucpFkA13wzmrQV-3a7d343e06746e2717e5cf3a533acf16
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1701757265-bf7aa95db3bc64f2cbb07f0dc1c9bd9a-XnQv0UeGhRidCtKO85w7YZuuMnKS5Tu3amZBdz4H-ab062bbde1be0f1a1377d889f65220a0
+https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1701761480-c62efdb4433542cd692333271f8e4f72-qpXPYcqfSDqYNjdr44wwFnwIgrucpFkA13wzmrQV-251b68333c62ec6210405a3f38e3918e
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1701757265-bf7aa95db3bc64f2cbb07f0dc1c9bd9a-XnQv0UeGhRidCtKO85w7YZuuMnKS5Tu3amZBdz4H-165fd0ea6395e8f74e0e00f1cf3a2fb9
+https://mbd-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1701761480-c62efdb4433542cd692333271f8e4f72-qpXPYcqfSDqYNjdr44wwFnwIgrucpFkA13wzmrQV-e1e88b6ede8da2c6cde3f8d4d014bf1b
