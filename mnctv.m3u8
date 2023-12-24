@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8?auth_key=1703445317-49ab9baa11a7a6e5017c5d41ead01a54-rToouqqUANGDYTIv74BgVlsS1CrbssPIrVMja8wc-fc999214957e63f0f5502fd982b14b5b
+https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8?auth_key=1703452889-6eae1afea9ea2a86d9063adbaeb55865-bqbRph73mKwhhXO7YmtUmIJokfpqXMatO9E0E052-72f6fb92addb43c48c2c957fcb8d8fd1
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_210000=10-mp4a_96000=1.m3u8?auth_key=1703445317-49ab9baa11a7a6e5017c5d41ead01a54-rToouqqUANGDYTIv74BgVlsS1CrbssPIrVMja8wc-aae211a4a85f52eb21213b8d0091c5a9
+https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_210000=10-mp4a_96000=1.m3u8?auth_key=1703452889-6eae1afea9ea2a86d9063adbaeb55865-bqbRph73mKwhhXO7YmtUmIJokfpqXMatO9E0E052-34afd7e5e54780728aab77e6f97369c1
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8?auth_key=1703445317-49ab9baa11a7a6e5017c5d41ead01a54-rToouqqUANGDYTIv74BgVlsS1CrbssPIrVMja8wc-c9878232a618ce7118ef35ad3c3c83f7
+https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8?auth_key=1703452889-6eae1afea9ea2a86d9063adbaeb55865-bqbRph73mKwhhXO7YmtUmIJokfpqXMatO9E0E052-b19e4b52381a1bea87a793b9fb01a348
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=8-mp4a_96000=1.m3u8?auth_key=1703445317-49ab9baa11a7a6e5017c5d41ead01a54-rToouqqUANGDYTIv74BgVlsS1CrbssPIrVMja8wc-70575e36ccd952da2a16a17a94d7fd13
+https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=8-mp4a_96000=1.m3u8?auth_key=1703452889-6eae1afea9ea2a86d9063adbaeb55865-bqbRph73mKwhhXO7YmtUmIJokfpqXMatO9E0E052-b5bff86efd89363f16a734bf0e9fd393
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1703445317-49ab9baa11a7a6e5017c5d41ead01a54-rToouqqUANGDYTIv74BgVlsS1CrbssPIrVMja8wc-726dce912ef5eabfdb29e5622ebe63ae
+https://mbd-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1703452889-6eae1afea9ea2a86d9063adbaeb55865-bqbRph73mKwhhXO7YmtUmIJokfpqXMatO9E0E052-0faa4b7fc1c1a59140210d0f3b9d8468
