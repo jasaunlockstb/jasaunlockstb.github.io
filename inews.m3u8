@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=223255,AVERAGE-BANDWIDTH=202959,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://mbd-inews.rctiplus.id/inews-sdi-avc1_100000=7-mp4a_96000=1.m3u8?auth_key=1704244735-ee4032eb8e4bdf825fc3bd49284ec802-G8WCpbxbFjyiUaRv0OSulW1iwQeaIiFtYB8J4efW-b27d383e8a84e1bdc705ec2a5001a71e
+https://mbd-inews.rctiplus.id/inews-sdi-avc1_100000=7-mp4a_96000=1.m3u8?auth_key=1704251832-a8bccbe5cfa2dbeae2c923dc5fd7fb7d-Zvb241syOe0MdDt4HA7Jg4hdSNbLI4BncBqJT9Wd-8d233d9b2b75fea8d492e98c5bf5053b
 #EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
-https://mbd-inews.rctiplus.id/inews-sdi-avc1_210000=9-mp4a_96000=1.m3u8?auth_key=1704244735-ee4032eb8e4bdf825fc3bd49284ec802-G8WCpbxbFjyiUaRv0OSulW1iwQeaIiFtYB8J4efW-2fece890b98afa4d3ca6d840438072b7
+https://mbd-inews.rctiplus.id/inews-sdi-avc1_210000=9-mp4a_96000=1.m3u8?auth_key=1704251832-a8bccbe5cfa2dbeae2c923dc5fd7fb7d-Zvb241syOe0MdDt4HA7Jg4hdSNbLI4BncBqJT9Wd-fa2724b6047b20f193043e8756ffc3c1
 #EXT-X-STREAM-INF:BANDWIDTH=631356,AVERAGE-BANDWIDTH=573959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://mbd-inews.rctiplus.id/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8?auth_key=1704244735-ee4032eb8e4bdf825fc3bd49284ec802-G8WCpbxbFjyiUaRv0OSulW1iwQeaIiFtYB8J4efW-ed2fee8d05c5a5dbd7afa379be6b67ca
+https://mbd-inews.rctiplus.id/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8?auth_key=1704251832-a8bccbe5cfa2dbeae2c923dc5fd7fb7d-Zvb241syOe0MdDt4HA7Jg4hdSNbLI4BncBqJT9Wd-c61bd14e044946d9c975da61d3854335
 #EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000
-https://mbd-inews.rctiplus.id/inews-sdi-avc1_600000=10-mp4a_96000=1.m3u8?auth_key=1704244735-ee4032eb8e4bdf825fc3bd49284ec802-G8WCpbxbFjyiUaRv0OSulW1iwQeaIiFtYB8J4efW-c4c2bf7296f17cafcb45eda7428ec18e
+https://mbd-inews.rctiplus.id/inews-sdi-avc1_600000=10-mp4a_96000=1.m3u8?auth_key=1704251832-a8bccbe5cfa2dbeae2c923dc5fd7fb7d-Zvb241syOe0MdDt4HA7Jg4hdSNbLI4BncBqJT9Wd-d91d1504411b5975c289e4c31ee3da63
 #EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://mbd-inews.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8?auth_key=1704244735-ee4032eb8e4bdf825fc3bd49284ec802-G8WCpbxbFjyiUaRv0OSulW1iwQeaIiFtYB8J4efW-01797107243bdaa2758a5d3e02d2461f
+https://mbd-inews.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8?auth_key=1704251832-a8bccbe5cfa2dbeae2c923dc5fd7fb7d-Zvb241syOe0MdDt4HA7Jg4hdSNbLI4BncBqJT9Wd-f92da8147e3c32e6bc3c6108e6aee5dd
