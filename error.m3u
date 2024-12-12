@@ -18,5 +18,8 @@ https://mew.biz.id/assets/info/output.m3u8
 #EXTINF:-1 tvg-id="0001" tvg-logo="https://mew.biz.id/assets/info.png" group-title="https://s.id/update-apk", Live Category
 https://mew.biz.id/assets/info/output.m3u8
 
+#EXTINF:-1 tvg-id="0001" tvg-logo="https://mew.biz.id/assets/info.png" group-title="Hurup kecil", Live Category
+https://mew.biz.id/assets/info/output.m3u8
+
 #EXTINF:-1 tvg-id="0001" tvg-logo="https://mew.biz.id/assets/info.png" group-title="Kode sama", Live Category
 https://mew.biz.id/assets/info/output.m3u8
